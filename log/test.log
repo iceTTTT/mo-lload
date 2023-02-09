@@ -1,0 +1,975 @@
+2023-01-09 18:36:47 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-01-09 18:36:47 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = true
+2023-01-09 18:36:47 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-09 18:36:47 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 18:36:47 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 18:36:47 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 18:36:47 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=0] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=1] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=2] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=3] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=4] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=5] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=6] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=7] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=8] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=9] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=10] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=11] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=12] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=13] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=14] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=15] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=16] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=17] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=18] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=19] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=20] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=21] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=22] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=23] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=24] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=25] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=26] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=27] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=28] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=29] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=30] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=31] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=32] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=33] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=34] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=35] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=36] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=37] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=38] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=39] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=40] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=41] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=42] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=43] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=44] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=45] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=46] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=47] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=48] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=49] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=50] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=51] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=52] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=53] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=54] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=55] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=56] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=57] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=58] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=59] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=60] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:48 ERROR TransExecutor:66 - Thread[id=61] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=62] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=63] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=64] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=65] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=66] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=67] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=68] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=69] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=70] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=71] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=72] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=73] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=74] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=75] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=76] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=77] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=78] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=79] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=80] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=81] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=82] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=83] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=84] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=85] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=86] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=87] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=88] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=89] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=90] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=91] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=92] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=93] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=94] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=95] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=96] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=97] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=98] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 ERROR TransExecutor:66 - Thread[id=99] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 18:36:49 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 18:41:51 INFO  ResultProcessor:96 - 
+[point_select_prepared]
+RT_MAX : -1
+RT_MIN : -1
+RT_AVG : null
+TPS : 0
+QPS : 0
+SUCCESS : 0
+ERROR : 1400703
+
+
+2023-01-09 18:41:52 INFO  MOPerfTest:219 -  write total time = 0,read total time = 0
+2023-01-09 18:41:52 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 18:41:53 INFO  MOPerfTest:244 - Program exit completely.
+2023-01-09 20:09:24 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-01-09 20:09:24 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = true
+2023-01-09 20:09:25 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-09 20:09:25 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 20:09:25 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 20:09:25 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 20:09:25 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=0] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=1] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=2] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=3] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=4] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=5] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=6] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=7] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=8] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=9] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=10] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=11] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=12] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=13] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=14] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=15] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=16] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=17] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=18] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=19] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=20] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=21] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=22] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=23] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=24] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=25] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=26] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=27] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=28] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=29] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=30] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=31] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=32] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=33] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=34] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=35] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=36] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=37] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:25 ERROR TransExecutor:66 - Thread[id=38] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=39] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=40] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=41] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=42] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=43] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=44] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=45] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=46] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=47] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=48] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=49] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=50] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=51] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=52] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=53] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=54] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=55] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=56] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=57] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=58] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=59] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=60] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=61] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=62] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=63] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=64] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=65] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=66] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=67] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=68] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=69] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=70] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=71] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=72] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=73] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=74] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=75] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=76] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=77] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=78] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=79] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=80] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=81] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=82] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=83] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=84] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=85] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=86] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=87] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=88] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=89] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=90] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=91] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=92] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=93] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=94] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=95] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=96] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=97] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=98] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 ERROR TransExecutor:66 - Thread[id=99] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:09:26 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 20:11:25 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 20:11:27 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-09 20:12:35 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-01-09 20:12:35 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = true
+2023-01-09 20:12:35 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-09 20:12:35 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 20:12:35 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 20:12:35 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 20:12:35 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=0] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=1] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=2] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=3] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=4] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=5] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=6] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=7] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=8] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=9] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=10] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=11] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=12] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=13] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=14] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=15] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=16] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=17] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=18] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=19] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=20] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=21] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=22] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=23] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=24] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:35 ERROR TransExecutor:66 - Thread[id=25] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=26] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=27] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=28] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=29] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=30] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=31] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=32] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=33] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=34] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=35] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=36] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=37] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=38] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=39] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=40] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=41] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=42] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=43] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=44] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=45] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=46] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=47] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=48] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=49] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=50] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=51] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=52] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=53] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=54] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=55] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=56] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=57] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=58] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=59] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=60] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=61] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=62] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=63] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=64] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=65] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=66] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=67] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=68] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=69] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=70] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=71] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=72] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=73] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=74] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=75] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=76] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=77] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=78] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=79] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=80] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=81] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=82] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=83] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=84] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=85] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=86] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=87] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=88] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=89] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:36 ERROR TransExecutor:66 - Thread[id=90] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=91] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=92] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=93] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=94] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=95] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=96] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=97] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=98] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 ERROR TransExecutor:66 - Thread[id=99] has prepared [insert into index_03(col2) values (?);]
+2023-01-09 20:12:37 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 20:14:40 INFO  MOPerfTest:219 -  write total time = 0,read total time = 0
+2023-01-09 20:22:26 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 20:22:27 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-09 20:50:32 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-01-09 20:50:32 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = false
+2023-01-09 20:50:32 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-09 20:50:32 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 20:50:32 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 20:50:32 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 20:50:32 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-01-09 20:50:33 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 20:50:43 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 20:50:44 INFO  MOPerfTest:244 - Program exit completely.
+2023-01-09 20:55:02 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-01-09 20:55:02 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = false
+2023-01-09 20:55:02 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-09 20:55:02 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 20:55:02 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 20:55:02 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 20:55:02 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-01-09 20:55:04 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 20:55:15 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 20:55:16 INFO  ResultProcessor:96 - 
+[point_select_prepared]
+RT_MAX : -1
+RT_MIN : -1
+RT_AVG : null
+TPS : 0
+QPS : 0
+SUCCESS : 0
+ERROR : 106335
+
+
+2023-01-09 20:55:16 INFO  MOPerfTest:244 - Program exit completely.
+2023-01-09 20:59:07 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-09 20:59:07 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-09 20:59:07 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-09 20:59:07 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-09 20:59:07 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-09 20:59:07 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-09 20:59:07 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-01-09 20:59:09 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-09 21:01:11 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 3910
+RT_MIN : 150
+RT_AVG : 1504.50
+TPS : 2
+QPS : 2
+SUCCESS : 10
+ERROR : 1353876
+
+
+2023-01-09 21:01:12 INFO  MOPerfTest:219 -  write total time = 1353886,read total time = 1353886
+2023-01-09 21:01:12 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-09 21:01:13 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 10:02:39 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 10:02:39 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 10:02:39 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 10:02:39 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 10:02:39 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 10:02:39 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 10:02:39 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 10:02:45 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 10:07:47 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 9902
+RT_MIN : 191
+RT_AVG : 4316.17
+TPS : 2
+QPS : 2
+SUCCESS : 24
+ERROR : 1855244
+
+
+2023-01-10 10:07:49 INFO  MOPerfTest:219 -  write total time = 1855268,read total time = 1855268
+2023-01-10 10:07:49 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 10:07:50 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 10:24:49 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 10:24:49 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 10:24:49 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 10:24:49 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 10:24:49 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 10:24:49 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 10:24:49 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 10:24:55 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 10:25:38 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 10:25:39 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 10:42:39 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 10:42:39 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 10:42:39 INFO  MOPerfTest:117 - The test will last for 2 minutes.
+2023-01-10 10:42:39 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 10:42:39 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 10:42:39 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 10:42:39 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-01-10 10:42:40 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 10:44:43 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 10042
+RT_MIN : 140
+RT_AVG : 2404.42
+TPS : 6
+QPS : 6
+SUCCESS : 785
+ERROR : 2056950
+
+
+2023-01-10 10:44:44 INFO  MOPerfTest:219 -  write total time = 2057735,read total time = 2057735
+2023-01-10 10:44:44 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 10:44:45 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 10:45:49 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 10:45:49 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 10:45:49 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 10:45:49 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 10:45:49 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 10:45:49 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 10:45:49 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-01-10 10:45:51 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 10:50:54 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 9730
+RT_MIN : 111
+RT_AVG : 1593.99
+TPS : 5
+QPS : 5
+SUCCESS : 1541
+ERROR : 5026799
+
+
+2023-01-10 10:50:54 INFO  MOPerfTest:219 -  write total time = 5028037,read total time = 5028340
+2023-01-10 10:50:54 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 10:50:55 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 11:26:22 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 11:26:22 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 11:26:22 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 11:26:22 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 11:26:22 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 11:26:22 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 11:26:22 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-01-10 11:26:23 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 11:31:24 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 6685
+RT_MIN : 27
+RT_AVG : 2010.30
+TPS : 21
+QPS : 21
+SUCCESS : 2000
+ERROR : 233735
+
+
+2023-01-10 11:31:26 INFO  MOPerfTest:219 -  write total time = 235735,read total time = 235735
+2023-01-10 11:31:26 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 11:31:27 INFO  MOPerfTest:244 - Program exit completely.
+2023-01-10 11:52:23 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 11:52:23 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 11:52:23 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 11:52:23 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 11:52:23 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 11:52:23 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 11:52:23 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 11:52:28 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 11:57:29 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 12545
+RT_MIN : 33
+RT_AVG : 4495.24
+TPS : 20
+QPS : 20
+SUCCESS : 2000
+ERROR : 3699946
+
+
+2023-01-10 11:57:31 INFO  MOPerfTest:219 -  write total time = 3701947,read total time = 3701946
+2023-01-10 11:57:31 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 11:57:32 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 12:06:34 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 12:06:34 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 12:06:34 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 12:06:34 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 12:06:34 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 12:06:34 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 12:06:34 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 12:06:39 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 12:11:41 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 9858
+RT_MIN : 172
+RT_AVG : 5026.38
+TPS : 2
+QPS : 2
+SUCCESS : 48
+ERROR : 5277308
+
+
+2023-01-10 12:11:43 INFO  MOPerfTest:219 -  write total time = 5277356,read total time = 5277356
+2023-01-10 12:11:43 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 12:11:44 INFO  MOPerfTest:249 - Program exit completely.
+2023-01-10 16:55:02 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 16:55:02 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 16:55:02 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 16:55:02 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 16:55:02 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 16:55:02 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 16:55:02 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 16:55:08 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 16:55:34 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 16:55:35 INFO  MOPerfTest:244 - Program exit completely.
+2023-01-10 16:56:21 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-01-10 16:56:21 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-01-10 16:56:21 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-01-10 16:56:21 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-01-10 16:56:21 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-01-10 16:56:21 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-01-10 16:56:21 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-01-10 16:56:26 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-01-10 17:02:23 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 9631
+RT_MIN : 128
+RT_AVG : 4087.24
+TPS : 2
+QPS : 2
+SUCCESS : 45
+ERROR : 4518836
+
+
+2023-01-10 17:02:25 INFO  MOPerfTest:219 -  write total time = 4518883,read total time = 4518881
+2023-01-10 17:02:25 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-01-10 17:02:26 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-07 15:23:36 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-07 15:23:36 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-07 15:23:36 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-07 15:23:36 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-07 15:23:36 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-07 15:23:36 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-07 15:23:36 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-07 15:23:42 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-07 15:28:45 INFO  MOPerfTest:219 -  write total time = 4406906,read total time = 4406906
+2023-02-07 15:28:51 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 16118
+RT_MIN : 145
+RT_AVG : 6875.06
+TPS : 24
+QPS : 24
+SUCCESS : 7574
+ERROR : 4399332
+
+
+2023-02-07 15:28:51 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-07 15:28:52 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-07 15:37:39 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-07 15:37:39 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-07 15:37:39 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-07 15:37:39 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-07 15:37:39 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-07 15:37:39 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-07 15:37:39 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-07 15:37:41 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-07 15:37:58 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-07 15:38:01 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-07 15:38:24 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-07 15:38:24 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-07 15:38:24 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-07 15:38:24 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-07 15:38:24 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-07 15:38:24 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-07 15:38:24 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-07 15:38:25 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-07 15:43:28 INFO  MOPerfTest:219 -  write total time = 7621,read total time = 7621
+2023-02-07 15:43:31 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 8143
+RT_MIN : 44
+RT_AVG : 3966.07
+TPS : 25
+QPS : 25
+SUCCESS : 7621
+ERROR : 0
+
+
+2023-02-07 15:43:31 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-07 15:43:32 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-08 11:45:29 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 11:45:29 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 11:45:29 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 11:45:29 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 11:45:29 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 11:45:29 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 11:45:29 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 11:45:31 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 11:48:18 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 11:48:19 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 11:48:36 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 11:48:36 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 11:48:36 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 11:48:36 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 11:48:36 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 11:48:36 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 11:48:36 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 11:48:39 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 11:49:45 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 11:49:46 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 11:49:51 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 11:49:51 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 11:49:51 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 11:49:51 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 11:49:51 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 11:49:51 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 11:49:51 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 11:49:54 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 11:51:10 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 11:51:11 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 11:52:34 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 11:52:34 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 11:52:34 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 11:52:34 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 11:52:34 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 11:52:34 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 11:52:34 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 11:52:36 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 11:56:29 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 11:56:30 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 11:58:44 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 11:58:44 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 11:58:44 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 11:58:44 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 11:58:44 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 11:58:44 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 11:58:44 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 11:58:46 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 12:03:52 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : -1
+RT_MIN : -1
+RT_AVG : null
+TPS : 0
+QPS : 0
+SUCCESS : 0
+ERROR : 390809
+
+
+2023-02-08 12:03:54 INFO  MOPerfTest:219 -  write total time = 390809,read total time = 390809
+2023-02-08 12:03:54 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 12:03:55 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 12:40:52 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 12:40:52 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 12:40:52 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 12:40:52 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 12:40:53 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 12:40:53 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 12:40:53 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 12:40:55 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 12:44:06 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 12:44:07 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 12:47:36 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 12:47:36 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 12:47:36 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 12:47:36 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 12:47:36 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 12:47:36 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 12:47:36 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 12:47:38 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 12:52:26 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 12:52:27 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 14:01:08 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:01:08 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:01:08 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:01:08 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:01:08 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:01:08 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:01:08 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 14:01:11 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 14:06:24 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 4015
+RT_MIN : 70
+RT_AVG : 520.84
+TPS : 188
+QPS : 188
+SUCCESS : 40136
+ERROR : 9469
+
+
+2023-02-08 14:06:26 INFO  MOPerfTest:219 -  write total time = 49605,read total time = 49605
+2023-02-08 14:06:26 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 14:06:27 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 14:24:07 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:24:07 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:24:07 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:24:07 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:24:07 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:24:07 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:24:07 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-08 14:24:20 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 14:29:44 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:29:44 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:29:44 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:29:44 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:29:44 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:29:44 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:29:44 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-08 14:30:22 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 14:30:23 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-08 14:32:34 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:32:34 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:32:34 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:32:34 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:32:34 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:32:34 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:32:34 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-08 14:32:50 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 14:33:47 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 14:33:55 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 14:44:01 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:44:01 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:44:01 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:44:01 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:44:01 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:44:01 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:44:01 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-08 14:44:10 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 14:44:27 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 14:44:28 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 14:49:32 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 14:49:32 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 14:49:32 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 14:49:32 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 14:49:32 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 14:49:32 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 14:49:32 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 100
+2023-02-08 14:49:34 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 14:54:37 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 1705
+RT_MIN : 23
+RT_AVG : 572.39
+TPS : 174
+QPS : 174
+SUCCESS : 52498
+ERROR : 0
+
+
+2023-02-08 14:54:38 INFO  MOPerfTest:219 -  write total time = 52498,read total time = 52498
+2023-02-08 14:54:38 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 14:54:40 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-08 15:07:11 INFO  RunConfigUtil:41 - transaction[point_select_prepared].mode = 1
+2023-02-08 15:07:11 INFO  RunConfigUtil:48 - transaction[point_select_prepared].prepared = true
+2023-02-08 15:07:11 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 15:07:11 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 15:07:11 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 15:07:11 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 15:07:11 INFO  MOPerfTest:135 - transaction[point_select_prepared].tnum = 100
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=0] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=1] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=2] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=3] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=4] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=5] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=6] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=7] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=8] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=9] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=10] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=11] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=12] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=13] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=14] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=15] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=16] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=17] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=18] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=19] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=20] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=21] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=22] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=23] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=24] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=25] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=26] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=27] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=28] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=29] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=30] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=31] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=32] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=33] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=34] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=35] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:12 ERROR TransExecutor:66 - Thread[id=36] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=37] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=38] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=39] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=40] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=41] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=42] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=43] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=44] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=45] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=46] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=47] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=48] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=49] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=50] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=51] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=52] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=53] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=54] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=55] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=56] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=57] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=58] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=59] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=60] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=61] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=62] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=63] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=64] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=65] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=66] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=67] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=68] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=69] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=70] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=71] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=72] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=73] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=74] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=75] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=76] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=77] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=78] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=79] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=80] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=81] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=82] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=83] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=84] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=85] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=86] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=87] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=88] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=89] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=90] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=91] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:13 ERROR TransExecutor:66 - Thread[id=92] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=93] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=94] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=95] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=96] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=97] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=98] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 ERROR TransExecutor:66 - Thread[id=99] has prepared [insert into index_03(col2) values (?);]
+2023-02-08 15:07:14 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 15:07:14 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-08 15:07:58 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 15:07:58 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 15:07:58 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 15:07:58 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 15:07:58 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 15:07:58 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 15:07:58 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-08 15:08:11 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 15:11:00 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 15:11:05 INFO  MOPerfTest:219 -  write total time = 8352,read total time = 8352
+2023-02-08 15:11:08 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-08 15:13:30 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-08 15:13:30 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-08 15:13:30 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-08 15:13:30 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-08 15:13:30 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-08 15:13:30 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-08 15:13:30 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 250
+2023-02-08 15:13:35 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-08 15:15:09 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-08 15:15:10 INFO  ResultProcessor:96 - 
+[insert_unique]
+RT_MAX : 3536
+RT_MIN : 14
+RT_AVG : 1442.91
+TPS : 167
+QPS : 167
+SUCCESS : 10161
+ERROR : 34739
+
+
+2023-02-08 15:15:10 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-09 10:36:32 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-09 10:36:32 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-09 10:36:32 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-09 10:36:32 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-09 10:36:32 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-09 10:36:32 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-09 10:36:32 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 250
+2023-02-09 10:36:34 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-09 10:36:36 INFO  MOPerfTest:244 - Program exit completely.
+2023-02-09 10:36:54 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-09 10:36:54 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-09 10:36:54 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-09 10:36:54 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-09 10:36:54 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-09 10:36:54 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-09 10:36:54 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-09 10:37:06 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-09 12:00:35 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-09 12:00:35 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-09 12:00:35 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-09 12:00:35 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-09 12:00:35 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-09 12:00:35 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-09 12:00:35 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-09 12:00:44 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-09 12:01:52 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-09 12:01:58 INFO  MOPerfTest:219 -  write total time = 13840,read total time = 13840
+2023-02-09 12:02:00 INFO  MOPerfTest:249 - Program exit completely.
+2023-02-09 12:07:17 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-09 12:07:17 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-09 12:07:17 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-09 12:07:17 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-09 12:07:17 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-09 12:07:17 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-09 12:07:17 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-09 12:07:24 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-09 13:26:58 INFO  RunConfigUtil:41 - transaction[insert_unique].mode = 1
+2023-02-09 13:26:58 INFO  RunConfigUtil:48 - transaction[insert_unique].prepared = false
+2023-02-09 13:26:58 INFO  MOPerfTest:117 - The test will last for 5 minutes.
+2023-02-09 13:26:58 INFO  MOPerfTest:50 - Initializing the variables,please wait for serval minutes.
+2023-02-09 13:26:58 INFO  MOPerfTest:60 - The variables has been prepared!
+2023-02-09 13:26:58 INFO  MOPerfTest:128 - Initializing the execution threads,please wait for serval minutes.
+2023-02-09 13:26:58 INFO  MOPerfTest:135 - transaction[insert_unique].tnum = 500
+2023-02-09 13:27:07 INFO  MOPerfTest:181 - All the he execution threads has been prepared,and start running.......
+2023-02-09 13:27:47 INFO  MOPerfTest:235 - Program is shutting down,now will release the resources...
+2023-02-09 13:27:48 INFO  MOPerfTest:249 - Program exit completely.
